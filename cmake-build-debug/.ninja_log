@@ -1,0 +1,27 @@
+# ninja log v5
+1	326	1648068951219906582	CMakeFiles/tests_algobot.dir/src/algobot.cpp.o	ae6bc3aa9f4fabb5
+1	510	1648068951403906332	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	973a47a816f98492
+511	517	1648068951411906321	libgtest_main.a	9a6e26f4b9dd0870
+0	639	1648068951531906158	CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.o	b4d96c0c4f2a323e
+0	2385	1648068953275903786	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	822967b4ad217d89
+2386	2414	1648068953307903743	libgtest.a	f959d77d644f416f
+2414	2520	1648068953411903601	tests_algobot	1e9079a1bf400fbe
+1	298	1648069024435807015	CMakeFiles/tests_ejercitacion.dir/src/algobot.cpp.o	d51c8b6537c9c8d1
+1	1246	1648069025383805726	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1246	1371	1648069025507805558	tests_ejercitacion	d4bdf89949c40ecc
+1	1221	1648069250459499947	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1221	1352	1648069250591499768	tests_ejercitacion	d4bdf89949c40ecc
+1	1186	1648069272423470126	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1187	1309	1648069272547469958	tests_ejercitacion	d4bdf89949c40ecc
+1	1229	1648069316859409804	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1230	1354	1648069316983409635	tests_ejercitacion	d4bdf89949c40ecc
+1	1226	1648069353735359752	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1226	1349	1648069353859359584	tests_ejercitacion	d4bdf89949c40ecc
+1	1246	1648069370995336327	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1247	1377	1648069371123336153	tests_ejercitacion	d4bdf89949c40ecc
+1	1182	1648069459247216576	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1182	1303	1648069459367216413	tests_ejercitacion	d4bdf89949c40ecc
+1	1211	1648069564735073476	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1211	1332	1648069564859073309	tests_ejercitacion	d4bdf89949c40ecc
+1	1341	1648069608079014689	CMakeFiles/tests_ejercitacion.dir/tests/tests_funciones.cpp.o	84e2bd22fe50af5d
+1341	1469	1648069608207014516	tests_ejercitacion	d4bdf89949c40ecc
